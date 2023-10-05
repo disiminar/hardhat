@@ -8,4 +8,4 @@ Welcome to the repository where I've embarked on my journey into the world of cr
   - Anyone can receive tokens.
   - Anyone with at least one token can transfer tokens.
   - The token is non-divisible. You can transfer 1, 2, 3 or 37 tokens but not 2.5.
-  - Link to transaction of smart-contract creation on Sepolia testnet scan [here](https://sepolia.etherscan.io/tx/0xa09d06fc86d9926cad45bb3875d7ace15452e6f04b288b37aca3a6048416ca44) 
+  - Link to **transaction of smart-contract creation** on Sepolia testnet scan [here](https://sepolia.etherscan.io/tx/0xa09d06fc86d9926cad45bb3875d7ace15452e6f04b288b37aca3a6048416ca44) 
