@@ -9,3 +9,6 @@ Welcome to the repository where I've embarked on my journey into the world of cr
   - Anyone with at least one token can transfer tokens.
   - The token is non-divisible. You can transfer 1, 2, 3 or 37 tokens but not 2.5.
   - Link to **transaction of smart-contract creation** on Sepolia testnet scan [here](https://sepolia.etherscan.io/tx/0xa09d06fc86d9926cad45bb3875d7ace15452e6f04b288b37aca3a6048416ca44) 
+- I am using [Infura](https://www.infura.io/) to get API private key for deploying smart-contract on real network (testnet)
+- In order not to waste time on the front-end, I used a ready-made example from the Hardhat team (Hardhat Boilerplate). link on [repository](https://github.com/NomicFoundation/hardhat-boilerplate)
+- 
